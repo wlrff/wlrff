@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @wlrff
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h2>
+Fullstack developer
+</h2>
 
-<!---
-wlrff/wlrff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### I had a lot of experience working in team on different project, even worked for business, startups...
+
+### My stack:
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,materialui,redux,postgres,express,nodejs,vite,fastapi,threejs,figma)](https://skillicons.dev)
+
+### My stats:
+[![GitHub Streak](https://streak-stats.demolab.com?user=wlrff&theme=tokyonight-duo&border_radius=24)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlrff&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
